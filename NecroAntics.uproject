@@ -1,6 +1,20 @@
+<<<<<<< HEAD
 {
 	"FileVersion": 3,
 	"EngineAssociation": "{0004B657-08D6-8912-92BF-DA1C7396722A}",
 	"Category": "",
 	"Description": ""
+=======
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.21",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "OnlineSubsystemSteam",
+			"Enabled": true
+		}
+	]
+>>>>>>> master
 }
