@@ -7,3 +7,7 @@ Tutorials used in the creation of this game:
 Blueprint Multiplayer series by UnrealEngine
 
 https://www.youtube.com/playlist?list=PLZlv_N0_O1gYqSlbGQVKsRg6fpxWndZqZ
+
+Basic Navigation in Unreal4 by Vikram Saran
+
+https://www.vikram.codes/blog/ai/01-basic-navigation
